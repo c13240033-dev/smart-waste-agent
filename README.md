@@ -60,3 +60,4 @@ Then open the site through a local web server or deployed HTTPS URL (not `file:/
 - `config.js.example` — safe placeholders for public Supabase settings.
 - `supabase-init.js` — Supabase client initialization and connection badge only.
 - `supabase/schema.sql` — starter tables, trigger, and RLS policies.
+Deployment Smart Waste Agent
