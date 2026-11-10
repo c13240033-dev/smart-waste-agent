@@ -1,0 +1,9 @@
+/*
+  Salin file ini menjadi config.js lalu isi nilai dari Supabase Dashboard > Project Settings > API.
+  Gunakan Project URL dan publishable key (atau anon key lama).
+  JANGAN pernah menaruh service_role key / secret key di website.
+*/
+window.SWA_CONFIG = {
+  SUPABASE_URL: 'https://YOUR_PROJECT_REF.supabase.co',
+  SUPABASE_PUBLISHABLE_KEY: 'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY'
+};
